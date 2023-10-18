@@ -1,1 +1,3 @@
-# zh2start
+﻿# ZH2
+
+Ebbe a repositoryba kell elkészítened a második ZH megoldását.
